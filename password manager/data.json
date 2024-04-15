@@ -1,0 +1,22 @@
+{
+    "Amazon": {
+        "email": "example@email.com",
+        "password": "*W%D$8kj9vhP4ha4"
+    },
+    "Ebay": {
+        "email": "example@email.com",
+        "password": "827Fdc)Unriexg0#"
+    },
+    "Myntra": {
+        "email": "example@email.com",
+        "password": "rqq7NF*0kP*Q!7B"
+    },
+    "facebook": {
+        "email": "example@email.com",
+        "password": "6W1AH!WH)Pwg%r"
+    },
+    "Insta": {
+        "email": "jeelmehta@15311.com",
+        "password": "4DoP7&D19XvM#M!%"
+    }
+}
